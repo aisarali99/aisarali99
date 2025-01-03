@@ -32,21 +32,6 @@ I thrive on solving challenging problems, turning ideas into impactful solutions
     
     🧳 A travel enthusiast with deep roots in Hunza, managing family businesses in tourism and hospitality.
 
-🔗 Let’s Connect
-
-    LinkedIn
-    Facebook
-    Instagram
-
-🚀 Tech Stack
-
-    Languages: C++, Python, JavaScript, Node.js
-    
-    Frameworks: NestJS, Django
-    
-    Tools: Git, AWS, Oracle DB
-    
-    Specialties: APIs, Data Ingestion, Machine Learning Solutions
     
 "Man is what he believes." – A motto I live by.
 
