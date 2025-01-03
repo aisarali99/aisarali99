@@ -1,16 +1,32 @@
 Hi there 👋
-I'm Aisar Ali, a passionate Software Engineer, and fitness enthusiast from Hunza, Pakistan. I thrive on solving challenging problems, turning ideas into impactful solutions, and inspiring others through fitness content.
+I'm Aisar Ali, a passionate Software Engineer and fitness enthusiast from Hunza, Pakistan.
+I thrive on solving challenging problems, turning ideas into impactful solutions, and inspiring others through fitness content.
 
 💻 Current Projects
-🔭 I’m currently working on data engineering projects involving data ingestion pipelines at Folio3.
-🚀 Exploring innovative ways to optimize workflows and enhance system performance.
+🔭 Currently working on:
+Data engineering projects involving data ingestion pipelines at Folio3.
+Exploring innovative ways to optimize workflows and enhance system performance.
 🌱 Learning and Growth
-🌱 I’m currently diving deeper into Django, data engineering tools, and advanced data science techniques.
-🧠 Expanding my expertise in cloud platforms, including AWS Glue and related technologies.
+🌱 Currently learning:
+Django, advanced data engineering tools, and data science techniques.
+🧠 Expanding expertise in cloud platforms, including AWS Glue and related technologies.
 🤝 Collaboration Opportunities
-👯 I’m looking to collaborate on open-source projects related to data engineering, web development, or machine learning.
+👯 Open to collaborating on:
+Open-source projects related to data engineering, web development, or machine learning.
 💡 Always excited to connect with like-minded individuals on innovative tech projects.
 ⚽ Fun Facts
-🌍 I’m a fitness enthusiast and love playing football.
-🎥 I create fitness content on Instagram to inspire and motivate others to lead a healthier lifestyle.
+🌍 Fitness enthusiast and football lover—scored 19 goals in matches in 2023!
+🎥 Creator of fitness content on Instagram.
+☕ Big fan of chai, because great ideas brew better with it.
 🧳 A travel enthusiast with deep roots in Hunza, managing family businesses in tourism and hospitality.
+🔗 Let’s Connect
+LinkedIn
+Facebook
+Instagram
+🚀 Tech Stack
+Languages: C++, Python, JavaScript, Node.js
+Frameworks: NestJS, Django
+Tools: Git, AWS, Oracle DB
+Specialties: APIs, Data Ingestion, Machine Learning Solutions
+"Man is what he believes." – A motto I live by.
+
