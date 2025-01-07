@@ -15,7 +15,7 @@ I thrive on solving challenging problems, turning ideas into impactful solutions
  
       Django, advanced data engineering tools, and data science techniques.
       
-      Expanding expertise in cloud platforms, including AWS Glue and related technologies.
+      Expanding expertise in cloud platforms, including AWS, Azure and related technologies.
 
 
  👯 Open to collaborating on:
