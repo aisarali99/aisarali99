@@ -20,7 +20,7 @@ I thrive on solving challenging problems, turning ideas into impactful solutions
 
  👯 Open to collaborating on:
 
-    Open-source projects related to data engineering, web development, or machine learning.
+    Open-source projects related to data engineering AI, web development, or machine learning.
     
     Always excited to connect with like-minded individuals on innovative tech projects.
 
@@ -33,5 +33,4 @@ I thrive on solving challenging problems, turning ideas into impactful solutions
     🧳 A travel enthusiast with deep roots in Hunza, managing family businesses in tourism and hospitality.
 
     
-"Man is what he believes." – A motto I live by.
 
